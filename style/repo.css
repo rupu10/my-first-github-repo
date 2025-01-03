@@ -1,9 +1,9 @@
 .first-para {
-    color: blue;
+    color: black;
 }
 .sec-para {
     color: red;
 }
 div {
-    color: greenyellow;
+    background-color: yellowgreen;
 }
