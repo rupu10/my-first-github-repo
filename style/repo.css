@@ -1,9 +1,12 @@
 .first-para {
-    color: black;
+    color: white;
 }
 .sec-para {
-    color: red;
+    color: blue;
 }
-div {
-    background-color: yellowgreen;
+.first-para {
+    background-color: purple;
+}
+.sec-para {
+    background-color: aqua;
 }
